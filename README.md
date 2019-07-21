@@ -8,6 +8,6 @@
 
 4 [苹果美区账号免费账号共享](https://shadowsocks-help.github.io/Shadowsocks/appleid.html)
 
-5 收藏固定域名：[https://s-s-r.github.io](https://s-s-r.github.io)
+5 [收藏固定域名:https://s-s-r.github.io](https://s-s-r.github.io)
 
-6、[如何使用我们的网站及购买](wiki.md)
+6 [如何使用我们的网站及购买](wiki.md)
