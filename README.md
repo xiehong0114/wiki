@@ -14,6 +14,6 @@
 
 【7】 [付費穩定SS/ShadowsocksR服務器,一鍵接入,鏈接全球！](https://s-s-r.github.io)
 
-【8】 [如何使用我们的网站及购买](wiki.md)
+【8】 [SS/SSR节点推荐，如何使用我们的网站及购买](wiki.md)
 
-【8】 请收藏本站固定域名：[https://s-s-r.github.io](https://s-s-r.github.io)
+【9】 请收藏本站固定域名：[https://s-s-r.github.io](https://s-s-r.github.io)
