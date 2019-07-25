@@ -4,7 +4,7 @@
 
 2 [全网最全的SS/ShadowsocksR安装使用教程](https://shadowsocks-help.github.io/Shadowsocks/)
 
-3 [Shadowsocks 终极使用指南](https://shadowsocks-help.github.io/Shadowsocks/)
+3 [Shadowsocks 帮助导航](https://shadowsocks-help.github.io/)
 
 4 [Potatso Lite 代理工具在线安装](https://shadowsocks-help.github.io/Potatso-Lite)
 
