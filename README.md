@@ -17,3 +17,5 @@
 【8】 [SS/SSR节点推荐，如何使用我们的网站及购买](wiki.md)
 
 【9】 请收藏本站固定域名：[https://s-s-r.github.io](https://s-s-r.github.io)
+
+【0】 SS/ShadowsocksR Server 电报频道：[t.me/freessssr](https://t.me/freessssr)
