@@ -14,4 +14,4 @@
 
 【7】 [如何使用我们的网站及购买](wiki.md)
 
-【8】 本站固定域名：[https://s-s-r.github.io](https://s-s-r.github.io)
+【8】 请收藏本站固定域名：[https://s-s-r.github.io](https://s-s-r.github.io)
