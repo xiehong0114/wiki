@@ -1,6 +1,6 @@
 # Shadowsocks 终极指南
 
-【1】 [苹果美区APPLE ID账号免费账号共享](https://shadowsocks-help.github.io/Shadowsocks/appleid.html)
+【1】 [付費穩定SS/ShadowsocksR服務器,一鍵接入,鏈接全球！](https://s-s-r.github.io)
 
 【2】 [全网最全的SS/ShadowsocksR安装使用教程](https://shadowsocks-help.github.io/Shadowsocks/)
 
@@ -12,7 +12,7 @@
 
 【6】 [Shadowsocks 客户端软件备用下载地址](https://shadowsocks-help.github.io/Shadowsocks/download.html)
 
-【7】 [付費穩定SS/ShadowsocksR服務器,一鍵接入,鏈接全球！](https://s-s-r.github.io)
+【7】 [苹果美区APPLE ID账号免费账号共享](https://shadowsocks-help.github.io/Shadowsocks/appleid.html)
 
 【8】 [SS/SSR节点推荐，如何使用我们的网站及购买](wiki.md)
 
