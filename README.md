@@ -18,4 +18,4 @@
 
 【9】 请收藏本站固定域名：[https://s-s-r.github.io](https://s-s-r.github.io)
 
-【0】 SS/ShadowsocksR Server 电报频道：[t.me/freessssr](https://t.me/joinchat/AAAAAFiGDMSvicw0X8Yc_g)
+【0】 SS/ShadowsocksR Server 电报频道：[t.me/freessssr](https://t.me/joinchat/AAAAAFiGDMSvicw0X8Yc_g) 
